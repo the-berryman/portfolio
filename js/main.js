@@ -17,7 +17,7 @@ window.iovoxApiConfig = {
     actionKey: "89479a09d55c162bd76746ff2dcbbb85213e31fe",
     globalNumberFormat: "xxx-xxx-xxxx",
     sea: true,
-    manualNumberUpdate:true
+    manualNumberUpdate:false
 
 }
 
