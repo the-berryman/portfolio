@@ -1,7 +1,7 @@
 // iovox
 window.iovoxApi= document.createElement("script");
 iovoxApi.src = "https://cdn.iovox.com/rest/v1/dni.js"
-document.getElementsByTagName("head")[0].appendChild(iovoxApi);
+
 
 window.iovoxApiConfig = {
 
@@ -23,3 +23,5 @@ window.iovoxApiConfig.requestLinks = {
     ]
 
 };
+
+document.getElementsByTagName("head")[0].appendChild(iovoxApi);
